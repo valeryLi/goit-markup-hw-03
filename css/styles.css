@@ -73,7 +73,7 @@ img{
 .page-header{
     padding-top: 24px;
     padding-bottom: 25px;
-    border: 1px solid #ECECEC;
+    border-bottom: 1px solid #ECECEC;
 }
 
 .page-header-container{
@@ -87,7 +87,7 @@ img{
     align-items: center;
 }
 
-.logo{
+.logo-header{
     margin-right: 93px;
 }
 
@@ -99,7 +99,7 @@ img{
     margin-right: 50px;
 }
 
-.page-header-tel{
+.header-tel{
     margin-left: 50px;
 }
 
